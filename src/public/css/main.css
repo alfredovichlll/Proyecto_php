@@ -1,9 +1,9 @@
 body {
     background-image: url('../img/prom.jpg');
+    background-repeat: no-repeat;
 }
 
 .content-section {
-    border: 1px solid #ddd;
     border-radius: 20px;
     display: block;
     flex-flow: column;
