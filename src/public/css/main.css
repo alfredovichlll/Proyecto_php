@@ -1,3 +1,15 @@
 body {
     background-image: url('../img/prom.jpg');
 }
+
+.content-section {
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    display: block;
+    flex-flow: column;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    position: relative;
+    width: 100%;
+}
