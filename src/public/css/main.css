@@ -11,7 +11,7 @@ body {
 }
 
 .content-section {
-
+    border: 1px solid #ddd;
     border-radius: 20px;
     display: block;
     flex-flow: column;
