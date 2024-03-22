@@ -2,7 +2,7 @@ body {
     background-color: #000;
 }
 
-.col-md-8 {
+.col-md-4 {
     background-image: url('../img/prom.jpg');
     background-repeat: no-repeat;
     background-size: cover;
