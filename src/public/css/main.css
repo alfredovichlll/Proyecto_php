@@ -8,10 +8,12 @@ body {
     margin-bottom: 4px;
 }
 
-.col-md-4 {
+.col-md-8 {
     background-image: url('../img/prom.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    height: 50vh;
+    width: 50vh;
 }
 
 .content-section {
@@ -30,4 +32,8 @@ body {
     display: block;
     letter-spacing: 1px;
     margin-bottom: 7px;
+}
+
+.form-control-label {
+    color: white;
 }
