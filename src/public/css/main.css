@@ -2,11 +2,12 @@ body {
     background-color: #000;
 }
 
-.col-md-4 {
+.col-md-8 {
     background-image: url('../img/prom.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 95vh;
+    width: 100vh;
 }
 
 .content-section {
