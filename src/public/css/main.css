@@ -27,7 +27,7 @@ body {
     margin-bottom: 7px;
 }
 
-.form-control-label {
+.form-control-label, #encabezado {
     color: white;
 }
 
