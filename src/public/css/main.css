@@ -30,3 +30,7 @@ body {
 .form-control-label {
     color: white;
 }
+
+#anuncio {
+    position: absolute;
+}
