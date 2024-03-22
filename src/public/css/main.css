@@ -9,7 +9,7 @@
 }
 
 .content-section {
-
+    border: 1px solid #ddd;
     border-radius: 20px;
     display: block;
     flex-flow: column;
@@ -18,4 +18,18 @@
     padding: 10px 20px;
     position: relative;
     width: 100%;
+}
+
+.form-group {
+    display: block;
+    letter-spacing: 1px;
+    margin-bottom: 7px;
+}
+
+.form-control-label, #encabezado {
+    color: white;
+}
+
+#anuncio {
+    position: absolute;
 }
