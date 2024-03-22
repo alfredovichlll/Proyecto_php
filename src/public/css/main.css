@@ -25,3 +25,9 @@ body {
     position: relative;
     width: 100%;
 }
+
+.form-group {
+    display: block;
+    letter-spacing: 1px;
+    margin-bottom: 7px;
+}
