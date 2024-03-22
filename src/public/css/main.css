@@ -2,12 +2,16 @@ body {
     background-color: #000;
 }
 
+.btn {
+    font-size: 0.9rem;
+    padding-bottom: 1px;
+    margin-bottom: 4px;
+}
+
 .col-md-4 {
     background-image: url('../img/prom.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 95vh;
-    width: 100vh;
 }
 
 .content-section {
