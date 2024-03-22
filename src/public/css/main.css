@@ -10,12 +10,10 @@ body {
 }
 
 .content-section {
-    align-items: center;
     border: 1px solid #ddd;
     border-radius: 20px;
     display: block;
     flex-flow: column;
-    justify-content: center;
     margin: auto;
     margin-bottom: 20px;
     padding: 10px 20px;
